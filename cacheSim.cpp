@@ -91,6 +91,8 @@ int main(int argc, char **argv) {
 	double L2MissRate;
 	double avgAccTime;
 
+    //TODO:: EVERYTHING
+
 	printf("L1miss=%.03f ", L1MissRate);
 	printf("L2miss=%.03f ", L2MissRate);
 	printf("AccTimeAvg=%.03f\n", avgAccTime);
